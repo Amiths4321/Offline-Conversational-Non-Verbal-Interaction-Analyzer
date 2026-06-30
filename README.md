@@ -1,4 +1,4 @@
-Offline Conversational & Non-Verbal Interaction Analyzer
+**Offline Conversational & Non-Verbal Interaction Analyzer**
 
 
 An entirely offline, privacy-first backend service that analyzes video frames or photos taken during interviews, meetings, or clinical consultations. Using a remote vision-language model instance, it maps out non-verbal communication cues, subtle behavioral markers, eyebrow/jaw micro-expressions, postural dynamics, and cognitive load indicators, returning structured JSON data.
